@@ -1,9 +1,14 @@
 
-# Awesome-Govt-Opensource
+## Awesome-Govt-Opensource
 
-~~ ( wip ) ~~
+:earth_americas: ~~ ( wip ) ~~ :earth_asia:
 
-## United States of America
+### 'The People’s Code'
+
+#### "Unlocking the potential of every government’s opensource software with the help of their people."
+
+
+:us: ## United States of America
 
 source: https://code.gov/
 
@@ -440,10 +445,14 @@ page: ...
 
 repo: https://github.com/department-of-veterans-affairs/roadrunner-rails
 
+
 -------------------------------------------------------------------
 
 
-## (next country)...
+*in no particular order*
+
+
+:cn: ## China...
 
 
 - 
@@ -457,4 +466,126 @@ repo:
 
 -------------------------------------------------------------------
 
-(end of list)
+
+:jp: ## Japan...
+
+
+- 
+
+desc: 
+
+page: 
+
+repo: 
+
+
+-------------------------------------------------------------------
+
+
+:kr: ## Korea...
+
+
+- 
+
+desc: 
+
+page: 
+
+repo: 
+
+
+-------------------------------------------------------------------
+
+
+:es: ## Spain...
+
+
+- 
+
+desc: 
+
+page: 
+
+repo: 
+
+
+-------------------------------------------------------------------
+
+
+:it: ## Italy...
+
+
+- 
+
+desc: 
+
+page: 
+
+repo: 
+
+
+-------------------------------------------------------------------
+
+
+:ru: ## Russia...
+
+
+- 
+
+desc: 
+
+page: 
+
+repo: 
+
+
+-------------------------------------------------------------------
+
+
+:gb: ## United Kingdom...
+
+
+- 
+
+desc: 
+
+page: 
+
+repo: 
+
+
+-------------------------------------------------------------------
+
+
+:de: ## Germany...
+
+
+- 
+
+desc: 
+
+page: 
+
+repo: 
+
+
+-------------------------------------------------------------------
+
+
+:fr: ## France...
+
+
+- 
+
+desc: 
+
+page: 
+
+repo: 
+
+
+
+-------------------------------------------------------------------
+
+
+:checkered_flag: (the end)
